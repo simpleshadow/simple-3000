@@ -157,7 +157,9 @@
     "titleBar.border": "#ffffff40",
     "titleBar.inactiveBackground": "#000000",
     "titleBar.inactiveForeground": "#ffffff60",
-    "tree.indentGuidesStroke": "#000000"
+    "tree.indentGuidesStroke": "#000000",
+    "window.inactiveBorder": "#000000",
+    "window.activeBorder": "#ffffff60"
   },
   "tokenColors": [
     {
