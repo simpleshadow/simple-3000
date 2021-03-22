@@ -137,6 +137,7 @@
     "terminal.border": "#ffffff",
     "terminal.foreground": "#ffffff",
     "terminal.selectionBackground": "#abb2bf30",
+    "textLink.activeForeground": "#ffffff",
     "textLink.foreground": "#05fff1",
     "titleBar.activeBackground": "#000000",
     "titleBar.activeForeground": "#ffffff",
