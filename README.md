@@ -2,5 +2,4 @@
 
 sent from the future.
 
-## SCREENSHOT
-![ScreenShot](images/screenshot-1.png)
+![Screenshot 1](images/screenshot-1.png)
