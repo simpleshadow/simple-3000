@@ -3,7 +3,7 @@
   "displayName": "simple 3000",
   "description": "sent from the future",
   "icon": "images/simple-3000.jpg",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "simpleshadow",
   "repository": {
     "url": "https://github.com/simpleshadow/simple-3000"
