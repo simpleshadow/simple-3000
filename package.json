@@ -2,6 +2,7 @@
   "name": "simple-3000",
   "displayName": "simple 3000",
   "description": "sent from the future",
+  "icon": "images/simple-3000.jpg",
   "version": "0.0.1",
   "publisher": "simpleshadow",
   "repository": {
