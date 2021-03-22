@@ -1,7 +1,7 @@
 {
   "name": "simple-3000",
-  "displayName": "Simple 3000",
-  "description": "",
+  "displayName": "simple 3000",
+  "description": "sent from the future",
   "version": "0.0.1",
   "publisher": "simpleshadow",
   "repository": {
@@ -16,7 +16,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Simple 3000",
+        "label": "simple 3000",
         "uiTheme": "vs-dark",
         "path": "./themes/simple-3000-color-theme.json"
       }
