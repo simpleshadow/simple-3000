@@ -132,13 +132,13 @@
     "terminal.ansiBrightMagenta": "#ff0086",
     "terminal.ansiBrightRed": "#ff2f55",
     "terminal.ansiBrightWhite": "#ffffff",
-    "terminal.ansiBrightYellow": "#ffc107",
+    "terminal.ansiBrightYellow": "#ffd700",
     "terminal.ansiCyan": "#7df9ff",
     "terminal.ansiGreen": "#05db61",
     "terminal.ansiMagenta": "#993baa",
     "terminal.ansiRed": "#990040",
     "terminal.ansiWhite": "#e6e6e6",
-    "terminal.ansiYellow": "#ffd700",
+    "terminal.ansiYellow": "#ffc107",
     "terminal.background": "#000000",
     "terminal.border": "#ffffff00",
     "terminal.foreground": "#ffffff",
@@ -542,7 +542,7 @@
           "support.class.component.tsx"
       ],
       "settings": {
-          "foreground": "#993baa",
+          "foreground": "#ff0086",
           "fontStyle": ""
       }
   },
@@ -973,7 +973,7 @@
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#ff2f55",
+        "foreground": "#ff0ae2",
         "fontStyle": "bold"
       }
     },
